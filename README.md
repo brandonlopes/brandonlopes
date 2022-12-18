@@ -11,7 +11,7 @@
 
 📖 My favorite book of all time is Marcus Aurelius' Meditations
 
-⚡ I'm a huge nerd and love all manner of video games, card games, reading, and building PC's!
+⚡ I'm a huge nerd and love all manner of video games, card games, reading, and building PCs!
 
 
 # 💻 Tech Stack:
