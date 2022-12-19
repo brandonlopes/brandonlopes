@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning Python and expanding my tech stack
 
-💬 Let's talk about minimalism, functional programming, and efficiency in software
+💬 Let's talk about functional programming and clean code
 
 📖 My favorite book of all time is Marcus Aurelius' Meditations
 
