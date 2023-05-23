@@ -1,18 +1,6 @@
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Brandon%20Lopes&width=800&height=400)](https://github.com/Akshay090/svg-banners) -->
 
-# 👨‍💻 About Me: 
-😊 I'm a passionate Web Developer working mostly on the front end
-
-🔭 I’m currently working on my web development portfolio 
-
-🌱 I’m currently learning Python and expanding my tech stack
-
-💬 Let's talk about functional programming and clean code
-
-📖 My favorite book of all time is Marcus Aurelius' Meditations
-
-⚡ I'm a huge nerd and love all manner of video games, card games, reading, and building PCs!
-
+👨‍💻 I'm a passionate Web Developer working mostly on the front end
 
 # 💻 Tech Stack:
 
@@ -36,8 +24,3 @@
 
 ### Other Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-
-<!---
-brandonlopes/brandonlopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
